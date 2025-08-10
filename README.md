@@ -20,9 +20,25 @@
 
 ---
 
-## 👨‍💻 About Me
-I build **real-world AI solutions** — from **assistive wearables** to **full-stack platforms**.  
-I love combining **Computer Vision, AI models, IoT, and clean UIs** to turn concepts into working prototypes — fast.
+## 🔭 My Innovation Philosophy
+
+<pre><code>def solve_problem():
+    while not solution_perfect:
+        experiment()
+        fail_fast()
+        iterate()
+    return elegant_solution
+
+# Currently executing: solve_problem(human_centered_ai)
+</code></pre>
+
+I focus on applied AI that connects sensors, vision, and UX — projects that help people, not just impress judges. Fast prototyping + pragmatic production-ready steps is my usual workflow.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlexxBenny/AlexxBenny/main/tech-stack.gif" width="640" alt="tech stack" />
+</p>
+
+---
 
 **Quick highlights:**
 - 🥇 **1st Prize — Smart-Acad** (*AI academic platform*)
