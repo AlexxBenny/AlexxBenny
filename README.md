@@ -87,7 +87,7 @@ Hackathon project for **Carestack × Carerevenue** — patient management + AI f
 
 ## 🤝 Let's Collaborate
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexbenny/"><img src="https://img.shields.io/badge/Let's%20Talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alexx-benny/"><img src="https://img.shields.io/badge/Let's%20Talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:alexbenny2004@gmail.com"><img src="https://img.shields.io/badge/Email-me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
