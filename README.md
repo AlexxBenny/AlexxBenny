@@ -7,15 +7,15 @@
 <h1 align="center">Alex Benny</h1>
 <p align="center">
   <strong>B.Tech — Artificial Intelligence & Data Science</strong><br>
-  <em>AI & Computer Vision · Full-Stack Maker · Hackathon Developer</em>
+  <em>AI & Computer Vision · Full-Stack Maker · Hackathon Enthusiast</em>
 </p>
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexbenny/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/alexx-benny/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/AlexxBenny"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:alexbenny2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://alexbennyportfolio.com" ><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://alexxbenny.github.io/" ><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
@@ -26,8 +26,8 @@ I love combining **Computer Vision, AI models, IoT, and clean UIs** to turn conc
 
 **Quick highlights:**
 - 🥇 **1st Prize — Smart-Acad** (*AI academic platform*)
-- 🥉 **3rd Place — National Gen AI Hackathon (amFOSS)** — ~250 teams
-- 🥽 **Smart Glasses** — real-time object detection, OCR → TTS, face/emotion recognition, voice commands
+- 🥉 **3rd Place — National Gen AI Hackathon (amFOSS)** 
+- 🥇 **1st Prize — Fluento** (*Adaptive Language Learning App*)
 
 ---
 
@@ -37,7 +37,6 @@ I love combining **Computer Vision, AI models, IoT, and clean UIs** to turn conc
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white"/>
 </p>
 
@@ -56,28 +55,18 @@ I love combining **Computer Vision, AI models, IoT, and clean UIs** to turn conc
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🥽 Smart Glasses — Assistive Vision System  
-![Smart Glasses Demo](https://raw.githubusercontent.com/AlexxBenny/Smart-Glasses/main/demo.gif)  
-Assistive wearable with:
-- Real-time object detection (YOLO)
-- OCR → Text-to-Speech
-- Face & emotion recognition
-- Voice command support  
-🔗 [View Repo](https://github.com/AlexxBenny/Smart-Glasses)
-
 ---
 
 ### 📚 Smart-Acad — AI Academic Dashboard  
 ![Smart-Acad Demo](https://raw.githubusercontent.com/AlexxBenny/Smart-Acad/main/demo.gif)  
 Multi-role academic platform with analytics, automation, and AI insights.  
-🔗 [View Repo](https://github.com/AlexxBenny/Smart-Acad)
+🔗 [View Repo](https://github.com/AlexxBenny/Smart_Acad)
 
 ---
 
@@ -86,13 +75,6 @@ Multi-role academic platform with analytics, automation, and AI insights.
 Hackathon project for **Carestack × Carerevenue** — patient management + AI features.  
 🔗 [View Repo](https://github.com/AlexxBenny/carehive)
 
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexxBenny&show_icons=true&theme=radical&count_private=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexxBenny&theme=radical"/>
-</p>
 
 ---
 
