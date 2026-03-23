@@ -140,6 +140,27 @@ Patient management system · AI-assisted workflows · Healthcare automation feat
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexxBenny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexxBenny&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AlexxBenny&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexxBenny&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
 ## 🤝 Connect
 
 <p align="center">
