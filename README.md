@@ -35,8 +35,6 @@
 
 ## 🚀 Selected Work
 
-<!--
-
 ### 🧠 MERLIN — Deterministic Cognitive Agent System (Flagship)
 
 > A determinism-first system that keeps **reasoning separate from execution** so the behavior stays predictable.
