@@ -122,7 +122,7 @@ graph TD
     B -->|Simple Command| R[Reflex Engine]
     B -->|Complex Intent| C[Cognitive Coordinator]
     C --> MC[MissionCortex Compiler]
-    MC --> DAG[Mission Plan (DAG)]
+    MC --> DAG[Mission Plan]
     DAG --> O[Mission Orchestrator]
     O --> E[Mission Executor]
     R --> S[Skill Registry]
