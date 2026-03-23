@@ -32,54 +32,109 @@
 
 ---
 
-<div style="background:#0b1220; border:1px solid #2f3542; border-radius:14px; padding:18px 20px; margin:18px 0;">
-  <h2 style="margin:0 0 10px 0;">🧠 MERLIN — Deterministic AI Execution System</h2>
-  <blockquote style="margin:0 0 14px 0; padding-left:12px; border-left:3px solid #4f46e5;">
-    A production-grade, JARVIS-style desktop automation system built on <strong>controlled autonomy, not agent chaos</strong>
-  </blockquote>
+<div style="background:#0b1220; border:1px solid #2f3542; border-radius:14px; padding:20px; margin:18px 0;">
 
-  <h3 style="margin:12px 0 8px 0;">Why MERLIN exists</h3>
-  <p style="margin:0 0 6px 0;">Most AI agents:</p>
-  <ul style="margin:0; padding-left:18px;">
-    <li>hallucinate actions</li>
-    <li>lack execution control</li>
-    <li>break in real-world environments</li>
-  </ul>
+<h2 style="margin:0 0 12px 0;">🧠 MERLIN — Deterministic AI Execution System</h2>
 
-  <p style="margin:12px 0 6px 0;">MERLIN solves this by enforcing:</p>
-  <ul style="margin:0; padding-left:18px;">
-    <li>deterministic pipelines</li>
-    <li>execution safety</li>
-    <li>structured planning</li>
-  </ul>
+<blockquote style="margin:0 0 16px 0; padding-left:12px; border-left:3px solid #4f46e5;">
+A production-grade, JARVIS-style desktop automation system built on <strong>controlled autonomy, not agent chaos</strong>
+</blockquote>
 
-  <h3 style="margin:14px 0 8px 0;">Core Architecture</h3>
-  <p style="margin:0;">
-    <strong>Perception Layer</strong><br/>
-    -> Cognitive Coordinator (LLM reasoning + memory context)<br/>
-    -> MissionCortex (plan compiler -> validated DAG)<br/>
-    -> MissionOrchestrator<br/>
-    -> Deterministic Executor (safe, auditable execution)
-  </p>
+---
 
-  <h3 style="margin:14px 0 8px 0;">Key Capabilities</h3>
-  <ul style="margin:0; padding-left:18px;">
-    <li>🔒 <strong>Deterministic execution gate</strong> (no blind agent actions)</li>
-    <li>🧠 <strong>ExecutionCoordinator</strong> for structured reasoning</li>
-    <li>🧩 <strong>Mission-based planning system (DAG compilation)</strong></li>
-    <li>🔁 <strong>Outcome-aware recovery system</strong> (soft vs hard failures)</li>
-    <li>⏱️ <strong>Persistent scheduler</strong> (tick-based execution loop)</li>
-    <li>📂 <strong>Centralized PathResolver</strong> (system-wide consistency)</li>
-    <li>🧠 <strong>Memory-aware reasoning</strong> (UserKnowledgeStore integration)</li>
-  </ul>
+### ⚠️ Problem vs Solution
 
-  <h3 style="margin:14px 0 8px 0;">What Makes It Different</h3>
-  <ul style="margin:0; padding-left:18px;">
-    <li>No uncontrolled agent loops</li>
-    <li>No re-parsing for scheduled tasks</li>
-    <li>Full auditability of execution</li>
-    <li>Hybrid intelligence: <strong>LLM reasoning + deterministic systems</strong></li>
-  </ul>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<strong>Most AI Agents</strong>
+<ul>
+<li>hallucinate actions</li>
+<li>lack execution control</li>
+<li>break in real-world environments</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<strong>MERLIN Approach</strong>
+<ul>
+<li>deterministic pipelines</li>
+<li>execution safety</li>
+<li>structured planning</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏗️ Core Architecture
+
+<table>
+<tr><td><strong>Layer</strong></td><td><strong>Responsibility</strong></td></tr>
+
+<tr>
+<td>Perception</td>
+<td>Input handling (text + voice)</td>
+</tr>
+
+<tr>
+<td>Cognitive Coordinator</td>
+<td>LLM reasoning with memory context</td>
+</tr>
+
+<tr>
+<td>MissionCortex</td>
+<td>Compiles intent → validated DAG</td>
+</tr>
+
+<tr>
+<td>MissionOrchestrator</td>
+<td>Manages execution flow</td>
+</tr>
+
+<tr>
+<td>Executor</td>
+<td>Deterministic, safe, auditable execution</td>
+</tr>
+
+</table>
+
+---
+
+### ⚡ Key Capabilities
+
+<table>
+<tr><td>🔒</td><td><strong>Deterministic execution gate</strong></td><td>No blind agent actions</td></tr>
+<tr><td>🧠</td><td><strong>ExecutionCoordinator</strong></td><td>Structured reasoning</td></tr>
+<tr><td>🧩</td><td><strong>Mission DAG planning</strong></td><td>Validated before execution</td></tr>
+<tr><td>🔁</td><td><strong>Recovery system</strong></td><td>Soft vs hard failure handling</td></tr>
+<tr><td>⏱️</td><td><strong>Scheduler</strong></td><td>Tick-based execution loop</td></tr>
+<tr><td>📂</td><td><strong>PathResolver</strong></td><td>System-wide consistency</td></tr>
+<tr><td>🧠</td><td><strong>Memory reasoning</strong></td><td>UserKnowledgeStore integration</td></tr>
+</table>
+
+---
+
+### 🚀 What Makes It Different
+
+<table>
+<tr>
+<td>❌ Agent Chaos</td>
+<td>❌ Re-parsing loops</td>
+<td>❌ Uncontrolled execution</td>
+</tr>
+<tr>
+<td>✅ Deterministic pipelines</td>
+<td>✅ Precompiled plans</td>
+<td>✅ Fully auditable system</td>
+</tr>
+</table>
+
 </div>
 
 ---
