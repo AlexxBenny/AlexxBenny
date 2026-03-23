@@ -115,6 +115,7 @@ Patient management system · AI-assisted workflows · Healthcare automation feat
 </table>
 
 </div>
+
 ---
 
 <div style="background:#0b1220; border:1px solid #2f3542; border-radius:14px; padding:18px 20px; margin:18px 0;">
