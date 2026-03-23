@@ -19,57 +19,68 @@
 
 ---
 
-## ⚙️ What I Build
-
-I build **deterministic AI systems** that execute tasks reliably — not just generate responses.
-
-My focus:
-- Turning LLM reasoning into **controlled execution pipelines**
-- Designing systems that **plan -> validate -> act -> recover**
-- Bridging **AI models with real-world actions**
+<div style="background:#0b1220; border:1px solid #2f3542; border-radius:14px; padding:18px 20px; margin:18px 0;">
+  <h2 style="margin:0 0 10px 0;">⚙️ What I Build</h2>
+  <p>I build **deterministic AI systems** that execute tasks reliably — not just generate responses.</p>
+  <p><strong>My focus:</strong></p>
+  <ul style="margin:0; padding-left:18px;">
+    <li>Turning LLM reasoning into <strong>controlled execution pipelines</strong></li>
+    <li>Designing systems that <strong>plan -> validate -> act -> recover</strong></li>
+    <li>Bridging <strong>AI models with real-world actions</strong></li>
+  </ul>
+</div>
 
 ---
 
-## 🧠 MERLIN — Deterministic AI Execution System
+<div style="background:#0b1220; border:1px solid #2f3542; border-radius:14px; padding:18px 20px; margin:18px 0;">
+  <h2 style="margin:0 0 10px 0;">🧠 MERLIN — Deterministic AI Execution System</h2>
+  <blockquote style="margin:0 0 14px 0; padding-left:12px; border-left:3px solid #4f46e5;">
+    A production-grade, JARVIS-style desktop automation system built on <strong>controlled autonomy, not agent chaos</strong>
+  </blockquote>
 
-> A production-grade, JARVIS-style desktop automation system built on **controlled autonomy, not agent chaos**
+  <h3 style="margin:12px 0 8px 0;">Why MERLIN exists</h3>
+  <p style="margin:0 0 6px 0;">Most AI agents:</p>
+  <ul style="margin:0; padding-left:18px;">
+    <li>hallucinate actions</li>
+    <li>lack execution control</li>
+    <li>break in real-world environments</li>
+  </ul>
 
-### Why MERLIN exists
+  <p style="margin:12px 0 6px 0;">MERLIN solves this by enforcing:</p>
+  <ul style="margin:0; padding-left:18px;">
+    <li>deterministic pipelines</li>
+    <li>execution safety</li>
+    <li>structured planning</li>
+  </ul>
 
-Most AI agents:
-- hallucinate actions
-- lack execution control
-- break in real-world environments
+  <h3 style="margin:14px 0 8px 0;">Core Architecture</h3>
+  <p style="margin:0;">
+    <strong>Perception Layer</strong><br/>
+    -> Cognitive Coordinator (LLM reasoning + memory context)<br/>
+    -> MissionCortex (plan compiler -> validated DAG)<br/>
+    -> MissionOrchestrator<br/>
+    -> Deterministic Executor (safe, auditable execution)
+  </p>
 
-MERLIN solves this by enforcing:
-- deterministic pipelines
-- execution safety
-- structured planning
+  <h3 style="margin:14px 0 8px 0;">Key Capabilities</h3>
+  <ul style="margin:0; padding-left:18px;">
+    <li>🔒 <strong>Deterministic execution gate</strong> (no blind agent actions)</li>
+    <li>🧠 <strong>ExecutionCoordinator</strong> for structured reasoning</li>
+    <li>🧩 <strong>Mission-based planning system (DAG compilation)</strong></li>
+    <li>🔁 <strong>Outcome-aware recovery system</strong> (soft vs hard failures)</li>
+    <li>⏱️ <strong>Persistent scheduler</strong> (tick-based execution loop)</li>
+    <li>📂 <strong>Centralized PathResolver</strong> (system-wide consistency)</li>
+    <li>🧠 <strong>Memory-aware reasoning</strong> (UserKnowledgeStore integration)</li>
+  </ul>
 
-### Core Architecture
-
-Perception Layer
--> Cognitive Coordinator (LLM reasoning + memory context)
--> MissionCortex (plan compiler -> validated DAG)
--> MissionOrchestrator
--> Deterministic Executor (safe, auditable execution)
-
-### Key Capabilities
-
-- 🔒 **Deterministic execution gate** (no blind agent actions)
-- 🧠 **ExecutionCoordinator** for structured reasoning
-- 🧩 **Mission-based planning system (DAG compilation)**
-- 🔁 **Outcome-aware recovery system** (soft vs hard failures)
-- ⏱️ **Persistent scheduler** (tick-based execution loop)
-- 📂 **Centralized PathResolver** (system-wide consistency)
-- 🧠 **Memory-aware reasoning** (UserKnowledgeStore integration)
-
-### What Makes It Different
-
-- No uncontrolled agent loops
-- No re-parsing for scheduled tasks
-- Full auditability of execution
-- Hybrid intelligence: **LLM reasoning + deterministic systems**
+  <h3 style="margin:14px 0 8px 0;">What Makes It Different</h3>
+  <ul style="margin:0; padding-left:18px;">
+    <li>No uncontrolled agent loops</li>
+    <li>No re-parsing for scheduled tasks</li>
+    <li>Full auditability of execution</li>
+    <li>Hybrid intelligence: <strong>LLM reasoning + deterministic systems</strong></li>
+  </ul>
+</div>
 
 ---
 
@@ -201,67 +212,85 @@ Patient management system · AI-assisted workflows · Healthcare automation feat
 
 ---
 
-## 🧩 Capabilities
+<div style="background:#0b1220; border:1px solid #2f3542; border-radius:14px; padding:18px 20px; margin:18px 0;">
+  <h2 style="margin:0 0 12px 0;">🧩 Capabilities</h2>
 
-### AI Systems
-- LLM orchestration & planning systems
-- Multimodal pipelines (vision + language + action)
-- Context-aware execution frameworks
+  <h3 style="margin:12px 0 8px 0;">AI Systems</h3>
+  <ul style="margin:0; padding-left:18px;">
+    <li>LLM orchestration & planning systems</li>
+    <li>Multimodal pipelines (vision + language + action)</li>
+    <li>Context-aware execution frameworks</li>
+  </ul>
 
-### Computer Vision
-- Object detection (YOLO)
-- OCR systems (EasyOCR)
-- Face recognition & emotion detection
+  <h3 style="margin:14px 0 8px 0;">Computer Vision</h3>
+  <ul style="margin:0; padding-left:18px;">
+    <li>Object detection (YOLO)</li>
+    <li>OCR systems (EasyOCR)</li>
+    <li>Face recognition & emotion detection</li>
+  </ul>
 
-### Engineering
-- Backend systems (FastAPI, Flask)
-- Full-stack apps (React + Node)
-- CI/CD pipelines (GitHub Actions, Azure)
-
----
-
-## 🏆 Achievements
-
-- 🥇 1st Prize — Smart-Acad
-- 🥇 1st Prize — Fluento (AI language learning system)
-- 🥉 3rd Place — National Gen AI Hackathon (amFOSS)
-
----
-
-## 🔬 Currently Exploring
-
-- Edge AI deployment (TensorRT / ONNX Runtime)
-- Autonomous system design (agent -> controller shift)
-- Real-world AI execution reliability
+  <h3 style="margin:14px 0 8px 0;">Engineering</h3>
+  <ul style="margin:0; padding-left:18px;">
+    <li>Backend systems (FastAPI, Flask)</li>
+    <li>Full-stack apps (React + Node)</li>
+    <li>CI/CD pipelines (GitHub Actions, Azure)</li>
+  </ul>
+</div>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexxBenny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexxBenny&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AlexxBenny&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexxBenny&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+<div style="background:#0b1220; border:1px solid #2f3542; border-radius:14px; padding:18px 20px; margin:18px 0;">
+  <h2 style="margin:0 0 12px 0;">🏆 Achievements</h2>
+  <ul style="margin:0; padding-left:18px;">
+    <li>🥇 1st Prize — Smart-Acad</li>
+    <li>🥇 1st Prize — Fluento (AI language learning system)</li>
+    <li>🥉 3rd Place — National Gen AI Hackathon (amFOSS)</li>
+  </ul>
+</div>
 
 ---
 
-## 🤝 Connect
+<div style="background:#0b1220; border:1px solid #2f3542; border-radius:14px; padding:18px 20px; margin:18px 0;">
+  <h2 style="margin:0 0 12px 0;">🔬 Currently Exploring</h2>
+  <ul style="margin:0; padding-left:18px;">
+    <li>Edge AI deployment (TensorRT / ONNX Runtime)</li>
+    <li>Autonomous system design (agent -> controller shift)</li>
+    <li>Real-world AI execution reliability</li>
+  </ul>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alexx-benny/"><img src="https://img.shields.io/badge/Let's%20Talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:alexbenny2004@gmail.com"><img src="https://img.shields.io/badge/Email-me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+---
+
+<div style="background:#0b1220; border:1px solid #2f3542; border-radius:14px; padding:18px 20px; margin:18px 0;">
+  <h2 style="margin:0 0 12px 0;">📊 GitHub Stats</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexxBenny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexxBenny&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  </p>
+</div>
+
+<div style="background:#0b1220; border:1px solid #2f3542; border-radius:14px; padding:18px 20px; margin:18px 0;">
+  <h2 style="margin:0 0 12px 0;">🔥 Streak Stats</h2>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=AlexxBenny&theme=tokyonight&hide_border=true" height="180"/>
+  </p>
+</div>
+
+<div style="background:#0b1220; border:1px solid #2f3542; border-radius:14px; padding:18px 20px; margin:18px 0;">
+  <h2 style="margin:0 0 12px 0;">📈 Contribution Graph</h2>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexxBenny&theme=tokyo-night&hide_border=true&area=true"/>
+  </p>
+</div>
+
+---
+
+<div style="background:#0b1220; border:1px solid #2f3542; border-radius:14px; padding:18px 20px; margin:18px 0;">
+  <h2 style="margin:0 0 12px 0;">🤝 Connect</h2>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/alexx-benny/"><img src="https://img.shields.io/badge/Let's%20Talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:alexbenny2004@gmail.com"><img src="https://img.shields.io/badge/Email-me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
+</div>
 
 <p align="center"><em>Building systems that don't just think — but execute.</em></p>
