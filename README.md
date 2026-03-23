@@ -21,7 +21,7 @@
 
 <div style="background:#0b1220; border:1px solid #2f3542; border-radius:14px; padding:18px 20px; margin:18px 0;">
   <h2 style="margin:0 0 10px 0;">⚙️ What I Build</h2>
-  <p>I build **deterministic AI systems** that execute tasks reliably — not just generate responses.</p>
+  <p>I build deterministic AI systems that execute tasks reliably — not just generate responses.</p>
   <p><strong>My focus:</strong></p>
   <ul style="margin:0; padding-left:18px;">
     <li>Turning LLM reasoning into <strong>controlled execution pipelines</strong></li>
