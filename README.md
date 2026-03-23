@@ -1,110 +1,150 @@
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Alex+Benny;B.Tech+in+AI+%26+Data+Science;Hackathon+Winner+%7C+AI+Developer;Computer+Vision+%26+Full-Stack+Specialist;Always+Building+Something+New">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=900&lines=Alex+Benny;Building+Deterministic+AI+Systems;AI+Developer+%7C+System+Thinker;Computer+Vision+%2B+Full-Stack;From+Ideas+to+Execution">
 </p>
 
-<!-- Name & Title -->
 <h1 align="center">Alex Benny</h1>
+
 <p align="center">
   <strong>B.Tech — Artificial Intelligence & Data Science</strong><br>
-  <em>AI & Computer Vision · Full-Stack Maker · Hackathon Enthusiast</em>
+  <em>Deterministic AI Systems · Computer Vision · Full-Stack Engineering</em>
 </p>
-
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/alexx-benny/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/AlexxBenny"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:alexbenny2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://alexxbenny.github.io/" ><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-</p>
-
----
-
-## 🔭 My Innovation Philosophy
-
-<pre><code>def solve_problem():
-    while not solution_perfect:
-        experiment()
-        fail_fast()
-        iterate()
-    return elegant_solution
-
-# Currently executing: solve_problem(human_centered_ai)
-</code></pre>
-
-I focus on applied AI that connects sensors, vision, and UX — projects that help people, not just impress judges. Fast prototyping + pragmatic production-ready steps is my usual workflow.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlexxBenny/AlexxBenny/main/tech-stack.gif" width="640" alt="tech stack" />
+  <a href="https://www.linkedin.com/in/alexx-benny/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AlexxBenny"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:alexbenny2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://alexxbenny.github.io/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
 
-**Quick highlights:**
-- 🥇 **1st Prize — Smart-Acad** (*AI academic platform*)
-- 🥉 **3rd Place — National Gen AI Hackathon (amFOSS)** 
-- 🥇 **1st Prize — Fluento** (*Adaptive Language Learning App*)
+## ⚙️ What I Build
+
+I build **deterministic AI systems** that execute tasks reliably — not just generate responses.
+
+My focus:
+- Turning LLM reasoning into **controlled execution pipelines**
+- Designing systems that **plan -> validate -> act -> recover**
+- Bridging **AI models with real-world actions**
 
 ---
 
-## ⚡ Tech Stack
-**Languages & Databases**  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white"/>
-</p>
+## 🧠 MERLIN — Deterministic AI Execution System
 
-**ML & CV Tools**  
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-darkgreen?logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EasyOCR-000000?logo=readthedocs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DeepFace-FF4088?style=flat&logo=face-recognition&logoColor=white"/>
-</p>
+> A production-grade, JARVIS-style desktop automation system built on **controlled autonomy, not agent chaos**
 
-**Development & Deployment**  
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
-</p>
+### Why MERLIN exists
 
----
+Most AI agents:
+- hallucinate actions
+- lack execution control
+- break in real-world environments
 
-## 🚀 Featured Projects
+MERLIN solves this by enforcing:
+- deterministic pipelines
+- execution safety
+- structured planning
 
----
+### Core Architecture
 
-### 📚 Smart-Acad — AI Academic Dashboard  
-![Smart-Acad Demo](https://raw.githubusercontent.com/AlexxBenny/Smart-Acad/main/demo.gif)  
-Multi-role academic platform with analytics, automation, and AI insights.  
-🔗 [View Repo](https://github.com/AlexxBenny/Smart_Acad)
+Perception Layer
+-> Cognitive Coordinator (LLM reasoning + memory context)
+-> MissionCortex (plan compiler -> validated DAG)
+-> MissionOrchestrator
+-> Deterministic Executor (safe, auditable execution)
 
----
+### Key Capabilities
 
-### 🏥 CareHive — AI Healthcare Assistant  
-![CareHive Demo](https://raw.githubusercontent.com/AlexxBenny/carehive/main/demo.gif)  
-Hackathon project for **Carestack × Carerevenue** — patient management + AI features.  
-🔗 [View Repo](https://github.com/AlexxBenny/carehive)
+- 🔒 **Deterministic execution gate** (no blind agent actions)
+- 🧠 **ExecutionCoordinator** for structured reasoning
+- 🧩 **Mission-based planning system (DAG compilation)**
+- 🔁 **Outcome-aware recovery system** (soft vs hard failures)
+- ⏱️ **Persistent scheduler** (tick-based execution loop)
+- 📂 **Centralized PathResolver** (system-wide consistency)
+- 🧠 **Memory-aware reasoning** (UserKnowledgeStore integration)
 
+### What Makes It Different
+
+- No uncontrolled agent loops
+- No re-parsing for scheduled tasks
+- Full auditability of execution
+- Hybrid intelligence: **LLM reasoning + deterministic systems**
 
 ---
 
-## 🌱 Currently Exploring
-- Edge deployment for CV models (TensorRT / ONNX Runtime)
-- Multimodal AI chains (vision → language → action)
-- CI/CD pipelines for ML products
+## 🏗️ System Design Principles
+
+```python
+principles = {
+    "determinism": "Execution must be predictable and reproducible",
+    "safety": "All actions pass through validation gates",
+    "separation": "Reasoning ≠ execution",
+    "auditability": "Every step is traceable",
+    "recovery": "Failures trigger structured replanning, not chaos"
+}
+```
 
 ---
 
-## 🤝 Let's Collaborate
+## 🚀 Selected Work
+
+🧠 **MERLIN (Flagship)**  
+Deterministic AI automation system with scheduler, recovery loops, and execution pipelines  
+-> System-level architecture, not just an app
+
+📚 **Smart-Acad — AI Academic Platform**  
+Multi-role platform with analytics, automation, and AI insights  
+Role-based dashboards · AI-powered academic tracking · Real-time data visualization  
+🔗 https://github.com/AlexxBenny/Smart_Acad
+
+🏥 **CareHive — AI Healthcare Assistant**  
+Built for Carestack x Carerevenue hackathon  
+Patient management system · AI-assisted workflows · Healthcare automation features  
+🔗 https://github.com/AlexxBenny/carehive
+
+---
+
+## 🧩 Capabilities
+
+### AI Systems
+- LLM orchestration & planning systems
+- Multimodal pipelines (vision + language + action)
+- Context-aware execution frameworks
+
+### Computer Vision
+- Object detection (YOLO)
+- OCR systems (EasyOCR)
+- Face recognition & emotion detection
+
+### Engineering
+- Backend systems (FastAPI, Flask)
+- Full-stack apps (React + Node)
+- CI/CD pipelines (GitHub Actions, Azure)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 1st Prize — Smart-Acad
+- 🥇 1st Prize — Fluento (AI language learning system)
+- 🥉 3rd Place — National Gen AI Hackathon (amFOSS)
+
+---
+
+## 🔬 Currently Exploring
+
+- Edge AI deployment (TensorRT / ONNX Runtime)
+- Autonomous system design (agent -> controller shift)
+- Real-world AI execution reliability
+
+---
+
+## 🤝 Connect
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexx-benny/"><img src="https://img.shields.io/badge/Let's%20Talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:alexbenny2004@gmail.com"><img src="https://img.shields.io/badge/Email-me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alexx-benny/"><img src="https://img.shields.io/badge/Let's%20Talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alexbenny2004@gmail.com"><img src="https://img.shields.io/badge/Email-me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+<p align="center"><em>Building systems that don't just think — but execute.</em></p>
