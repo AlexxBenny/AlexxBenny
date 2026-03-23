@@ -71,32 +71,50 @@ Patient management system · AI-assisted workflows · Healthcare automation feat
 🔗 https://github.com/AlexxBenny/carehive
 
 ---
+<div style="background:#0b1220; border:1px solid #2f3542; border-radius:14px; padding:20px; margin:18px 0;">
 
-<div style="background:#0b1220; border:1px solid #2f3542; border-radius:14px; padding:18px 20px; margin:18px 0;">
-  <h2 style="margin:0 0 12px 0;">🧩 Capabilities</h2>
+<h2 style="margin:0 0 16px 0;">🧩 Capabilities</h2>
 
-  <h3 style="margin:12px 0 8px 0;">AI Systems</h3>
-  <ul style="margin:0; padding-left:18px;">
-    <li>LLM orchestration & planning systems</li>
-    <li>Multimodal pipelines (vision + language + action)</li>
-    <li>Context-aware execution frameworks</li>
-  </ul>
+<table>
+<tr>
 
-  <h3 style="margin:14px 0 8px 0;">Computer Vision</h3>
-  <ul style="margin:0; padding-left:18px;">
-    <li>Object detection (YOLO)</li>
-    <li>OCR systems (EasyOCR)</li>
-    <li>Face recognition & emotion detection</li>
-  </ul>
+<td width="33%" valign="top">
 
-  <h3 style="margin:14px 0 8px 0;">Engineering</h3>
-  <ul style="margin:0; padding-left:18px;">
-    <li>Backend systems (FastAPI, Flask)</li>
-    <li>Full-stack apps (React + Node)</li>
-    <li>CI/CD pipelines (GitHub Actions, Azure)</li>
-  </ul>
+<h3>🧠 AI Systems</h3>
+<ul>
+<li>LLM orchestration & planning systems</li>
+<li>Multimodal pipelines (vision + language + action)</li>
+<li>Context-aware execution frameworks</li>
+</ul>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>👁️ Computer Vision</h3>
+<ul>
+<li>Object detection (YOLO)</li>
+<li>OCR systems (EasyOCR)</li>
+<li>Face recognition & emotion detection</li>
+</ul>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>⚙️ Engineering</h3>
+<ul>
+<li>Backend systems (FastAPI, Flask)</li>
+<li>Full-stack apps (React + Node)</li>
+<li>CI/CD pipelines (GitHub Actions, Azure)</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
 </div>
-
 ---
 
 <div style="background:#0b1220; border:1px solid #2f3542; border-radius:14px; padding:18px 20px; margin:18px 0;">
