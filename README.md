@@ -43,8 +43,6 @@ I wanted something that can take real actions without the usual “agent chaos�
 
 🔗 https://github.com/AlexxBenny/Merlin
 
----
-
 ### ⚡ Core Capabilities
 
 - 🧠 **LLM → Compiler Model**: converts natural language into validated Mission DAGs (no direct action dumping)
@@ -63,6 +61,8 @@ I wanted something that can take real actions without the usual “agent chaos�
 Multi-role platform with analytics, automation, and AI insights  
 Role-based dashboards · AI-powered academic tracking · Real-time data visualization  
 🔗 https://github.com/AlexxBenny/Smart_Acad
+
+---
 
 🏥 CareHive — AI Healthcare Assistant
 
