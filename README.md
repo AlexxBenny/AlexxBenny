@@ -37,10 +37,10 @@
 <h2 style="margin:0 0 12px 0;">🧠 MERLIN — Deterministic AI Execution System</h2>
 
 <blockquote style="margin:0 0 16px 0; padding-left:12px; border-left:3px solid #4f46e5;">
-A production-grade, JARVIS-style desktop automation system built on <strong>controlled autonomy, not agent chaos</strong>
+A system I built to make AI <strong>execute reliably</strong>, not just generate responses.
 </blockquote>
 
----
+<div style="display:none;">
 
 ### ⚠️ Problem vs Solution
 
@@ -137,7 +137,33 @@ A production-grade, JARVIS-style desktop automation system built on <strong>cont
 
 </div>
 
+<p style="margin:0 0 10px 0;">
+Most AI agents lean on uncontrolled loops and fragile reasoning. MERLIN takes a different approach:
+</p>
+
+<ul style="margin:0; padding-left:18px;">
+  <li><strong>Plan first → execute later</strong> (DAG-based compilation)</li>
+  <li><strong>Deterministic execution</strong> (no blind agent actions)</li>
+  <li><strong>Structured recovery</strong> (failure-aware retries)</li>
+</ul>
+
+<br/>
+
+<p style="margin:0;">
+This is how I design deterministic AI: <strong>separate reasoning from execution, enforce control, and build for real-world reliability</strong>.
+</p>
+
+<br/>
+
+<p style="margin:0;">
+🔗 <a href="https://github.com/AlexxBenny/Merlin">Explore MERLIN</a>
+</p>
+
+</div>
+
 ---
+
+<div style="display:none;">
 
 ## 🏗️ System Design Principles
 
@@ -151,9 +177,13 @@ principles = {
 }
 ```
 
+ </div>
+
 ---
 
-## 🚀 Selected Work
+## 🚀 Other Work
+
+<div style="display:none;">
 
 ### 🧠 MERLIN — Deterministic Cognitive Agent System (Flagship)
 
@@ -181,7 +211,7 @@ I wanted something that can take real actions without the usual “agent chaos�
 
 MERLIN keeps the pipeline intentionally separated—so behavior stays predictable:
 
-```mermaid
+```text
 graph TD
 
     User --> PO[Perception]
@@ -218,7 +248,7 @@ graph TD
     LOOP[Event Loop] --> RE
 ```
 
-```mermaid
+```text
 flowchart LR
     A[User Intent] --> B[Feature Analysis]
     B -->|Fast Path| C[Reflex Execution]
@@ -254,6 +284,8 @@ flowchart LR
 - `PathResolver` -> global filesystem authority
 
 ---
+
+</div>
 
 📚 **Smart-Acad — AI Academic Platform**  
 Multi-role platform with analytics, automation, and AI insights  
