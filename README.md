@@ -57,14 +57,13 @@ I wanted something that can take real actions without the usual “agent chaos�
 
 ---
 
--->
 
-📚 **Smart-Acad — AI Academic Platform**  
+📚 Smart-Acad — AI Academic Platform
 Multi-role platform with analytics, automation, and AI insights  
 Role-based dashboards · AI-powered academic tracking · Real-time data visualization  
 🔗 https://github.com/AlexxBenny/Smart_Acad
 
-🏥 **CareHive — AI Healthcare Assistant**  
+🏥 CareHive — AI Healthcare Assistant
 Built for Carestack x Carerevenue hackathon  
 Patient management system · AI-assisted workflows · Healthcare automation features  
 🔗 https://github.com/AlexxBenny/carehive
