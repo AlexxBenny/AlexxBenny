@@ -117,17 +117,39 @@ MERLIN keeps the pipeline intentionally separated—so behavior stays predictabl
 
 ```mermaid
 graph TD
-    U[User Input] --> P[Perception Layer]
-    P --> B[BrainCore]
-    B -->|Simple Command| R[Reflex Engine]
-    B -->|Complex Intent| C[Cognitive Coordinator]
-    C --> MC[MissionCortex Compiler]
-    MC --> DAG[Mission Plan]
-    DAG --> O[Mission Orchestrator]
-    O --> E[Mission Executor]
-    R --> S[Skill Registry]
-    E --> S
-    S --> W[World State Timeline]
+
+    User --> PO[Perception]
+
+    PO --> BC[BrainCore]
+
+    %% Routing
+    BC -->|Features| SA[Structural Analyzer]
+    SA --> BC
+    BC -->|Fast Path| RE[Reflex Engine]
+    BC -->|Complex Intent| EP[Escalation Policy]
+
+    %% Planning
+    EP --> MC[MissionCortex Compiler]
+    MC --> LLM[LLM Router]
+    LLM --> MC
+
+    %% Execution Paths
+    MC --> ME[Mission Executor]
+    MC --> SCHED[Scheduler]
+
+    RE --> SR[Skill Registry]
+    ME --> SR
+    SCHED --> ME
+
+    SR --> Skills[System / Browser Skills]
+    Skills --> WT[World Timeline]
+
+    %% Memory Feedback
+    WT --> WSP[World State]
+    WSP --> MC
+
+    %% Proactive Loop
+    LOOP[Event Loop] --> RE
 ```
 
 ```mermaid
