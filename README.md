@@ -89,9 +89,83 @@ principles = {
 
 ## 🚀 Selected Work
 
-🧠 **MERLIN (Flagship)**  
-Deterministic AI automation system with scheduler, recovery loops, and execution pipelines  
--> System-level architecture, not just an app
+### 🧠 MERLIN — Deterministic Cognitive Agent System (Flagship)
+
+> A determinism-first system that keeps **reasoning separate from execution** so the behavior stays predictable.
+
+I wanted something that can take real actions without the usual “agent chaos” problem. So MERLIN does **plan first, validate, then execute**—and if something breaks, it classifies the failure and recovers intentionally instead of retrying blindly.
+
+🔗 https://github.com/AlexxBenny/Merlin
+
+---
+
+### ⚡ Core Capabilities
+
+- 🧠 **LLM → Compiler Model**: converts natural language into validated Mission DAGs (no direct action dumping)
+- ⚙️ **Deterministic Execution Engine**: no hallucinated actions; everything runs through strict skill contracts
+- 🔁 **Outcome-Aware Recovery**: failure classification + structured retries (soft vs hard)
+- ⏱️ **Persistent Scheduler**: tick-based runtime that executes precompiled plans
+- 🧠 **Semantic User Memory**: facts, preferences, and policies via `UserKnowledgeStore`
+- 💻 **Deep OS Integration**: file system, apps, browser, and system controls
+- 🌐 **Decoupled UI System**: React dashboard + PySide6 widget via an API bridge
+
+---
+
+### 🏗️ 4-Layer Cognitive Architecture
+
+MERLIN keeps the pipeline intentionally separated—so behavior stays predictable:
+
+```mermaid
+graph TD
+    U[User Input] --> P[Perception Layer]
+    P --> B[BrainCore]
+    B -->|Simple Command| R[Reflex Engine]
+    B -->|Complex Intent| C[Cognitive Coordinator]
+    C --> MC[MissionCortex Compiler]
+    MC --> DAG[Mission Plan (DAG)]
+    DAG --> O[Mission Orchestrator]
+    O --> E[Mission Executor]
+    R --> S[Skill Registry]
+    E --> S
+    S --> W[World State Timeline]
+```
+
+```mermaid
+flowchart LR
+    A[User Intent] --> B[Feature Analysis]
+    B -->|Fast Path| C[Reflex Execution]
+    B -->|Escalation| D[LLM Reasoning]
+    D --> E[Mission Compilation]
+    E --> F[Validated DAG]
+    F --> G[Deterministic Execution]
+    G --> H[State Update]
+    H --> I[Recovery Engine]
+    I -->|If Failure| E
+```
+
+---
+
+### 🧠 Key System Innovations
+
+1. **Deterministic > Agentic**: no uncontrolled loops; no direct LLM -> action mapping; every action passes through validation
+2. **Compile-time Planning**: natural language -> structured DAG; validation happens before execution starts
+3. **Reflex Fast-Path**: simple commands run without invoking the LLM; low latency for “small, safe” actions
+4. **World-State Driven Intelligence**: append-only event timeline; context derived from actual system state
+5. **Inline Recovery System**: failures are classified first; recovery actions are generated intentionally (not “try again and pray”)
+
+---
+
+### ⚙️ System Components (Real Breakdown)
+
+- `BrainCore` -> routing authority (reflex vs reasoning)
+- `MissionCortex` -> LLM-based plan compiler
+- `MissionExecutor` -> deterministic DAG executor
+- `TickSchedulerManager` -> persistent job execution
+- `AttentionManager` -> notifications & interruption control
+- `UserKnowledgeStore` -> structured memory system
+- `PathResolver` -> global filesystem authority
+
+---
 
 📚 **Smart-Acad — AI Academic Platform**  
 Multi-role platform with analytics, automation, and AI insights  
